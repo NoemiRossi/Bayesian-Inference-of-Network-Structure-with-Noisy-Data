@@ -12,7 +12,13 @@ We used four models:
 * __Poisson Model - Multi-edge Model__
 
 # Poisson Model - Erdős-Rényi Network Model
-![alt text](http://url/to/img.png)
+![Poisson Model - Erdős-Rényi Network Model](https://github.com/NoemiRossi/Bayesian-Inference-of-Network-Structure-with-Noisy-Data/blob/main/Images/p_er_m.png)
 # Negative Binomial Model - Erdős-Rényi Network Model
+![Negative Binomial Model - Erdős-Rényi Network Model](https://github.com/NoemiRossi/Bayesian-Inference-of-Network-Structure-with-Noisy-Data/blob/main/Images/nb_er_m.png)
 # Negative Binomial Model - Stochastic Block Model
+![Negative Binomial Model - Stochastic Block Model](https://github.com/NoemiRossi/Bayesian-Inference-of-Network-Structure-with-Noisy-Data/blob/main/Images/nb_sbm_m.png)
 # Poisson Model - Multi-edge Model
+![Poisson Model - Multi-edge Model](https://github.com/NoemiRossi/Bayesian-Inference-of-Network-Structure-with-Noisy-Data/blob/main/Images/p_mul_m.png)
+
+# Network Estimation
+From our models we estimate an adjecency matrix of friendship between the students.
