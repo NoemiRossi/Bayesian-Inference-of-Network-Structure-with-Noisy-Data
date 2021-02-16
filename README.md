@@ -39,3 +39,12 @@ To run a test is enough to run any file in the R codes.
 * __Michele Bellomo__ - *Politecnico di Milano*
 * __Paulina Moskwa__ - *Politecnico di Milano*
 * __Noemi Rossi__ - *Politecnico di Milano*
+
+# Acknowledgements
+* Bayesian Statistics course Professor Alessandra Guglielmi
+* Project tutor Prof. Federico Bassetti
+
+# References
+* Jean-Gabriel Young, George T Cantwell, and MEJ Newman. “Robust Bayesian in-ference of network structure from unreliable data”. In:arXiv preprint arXiv:2008.03334(2020)
+* Mark EJ Newman. “Network structure from rich but noisy data”. In:Nature Physics14.6 (2018), pp. 542–545
+* Andrew Gelman, Xiao-Li Meng, and Hal Stern. “Posterior predictive assessment ofmodel fitness via realized discrepancies”. In:Statistica sinica(1996), pp. 733–760.
