@@ -20,5 +20,13 @@ We used four models:
 # Poisson Model - Multi-edge Model
 ![Poisson Model - Multi-edge Model](https://github.com/NoemiRossi/Bayesian-Inference-of-Network-Structure-with-Noisy-Data/blob/main/Images/p_mul_m.png)
 
+# Code and folder structure
+* __R codes:__ The folder contains the code that we use to produce our plots and analysis.
+* __Datasets:__ The folder contains the dataset used in the Analysis.
+* __Stan:__ The folder contains all the .stan file that describes the diffferent models.
+
+# Run a test case
+To run a test is enough to run any file in the R codes.
+
 # Network Estimation
 From our models we estimate an adjecency matrix of friendship between the students.
