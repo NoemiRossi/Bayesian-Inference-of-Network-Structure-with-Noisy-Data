@@ -28,5 +28,14 @@ We used four models:
 # Run a test case
 To run a test is enough to run any file in the R codes.
 
-# Network Estimation
-From our models we estimate an adjecency matrix of friendship between the students.
+# Results
+* __Adjecency Matrix:__From our models we estimate an adjecency matrix of friendship between the students.
+![Adjecency Matrix](https://github.com/NoemiRossi/Bayesian-Inference-of-Network-Structure-with-Noisy-Data/blob/main/Images/adj.png)
+
+* __Network:__
+![Adjecency Matrix](https://github.com/NoemiRossi/Bayesian-Inference-of-Network-Structure-with-Noisy-Data/blob/main/Images/net.jpg)
+
+# Authors
+* __Michele Bellomo__ - *Politecnico di Milano*
+* __Paulina Moskwa__ - *Politecnico di Milano*
+* __Noemi Rossi__ - *Politecnico di Milano*
